@@ -1,0 +1,58 @@
+section {
+  margin-top: 20vw;
+  width: 97vw;
+  height: 10vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+section i {
+  font-size: 3em;
+}
+
+section i.la-twitter {
+  color: #1da1f2;
+}
+
+section i.la-behance {
+  color: #1769ff;
+}
+
+section i.la-facebook-f {
+  color: #3b5998;
+}
+
+section i.la-vimeo {
+  color: #1ab7ea;
+}
+
+section i.la-snapchat-ghost {
+  color: #fffc00;
+}
+
+section i.la-airbnb {
+  color: #fd5c63;
+}
+
+section i.la-amazon {
+  color: #fd5c63;
+}
+
+section i.la-android {
+  color: #a4c639;
+}
+
+section i.la-github {
+  color: #4078c0;
+}
+
+section i.la-js-square {
+  background-color: #f7df1e;
+}
+/*# sourceMappingURL=style.css.map */

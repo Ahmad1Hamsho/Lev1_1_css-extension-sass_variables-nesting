@@ -1,0 +1,44 @@
+@import "variable";
+
+section {
+  margin-top: 20vw;
+  width: 97vw;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  i {
+    font-size: 3em;
+    &.la-twitter {
+      color: $twitter;
+    }
+
+    &.la-behance {
+      color: $Be;
+    }
+    &.la-facebook-f {
+      color: $faceBook;
+    }
+    &.la-vimeo {
+      color: $vimeo;
+    }
+    &.la-snapchat-ghost {
+      color: $snapChat;
+    }
+    &.la-airbnb {
+      color: $airbnb;
+    }
+    &.la-amazon {
+      color: $amazon;
+    }
+    &.la-android {
+      color: $android;
+    }
+    &.la-github {
+      color: $gitHub;
+    }
+    &.la-js-square {
+      background-color: $js;
+    }
+  }
+}
